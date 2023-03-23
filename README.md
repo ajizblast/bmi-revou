@@ -1,1 +1,1 @@
-# mini-project
+# Revou-Bmi-Calculator
